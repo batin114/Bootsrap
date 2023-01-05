@@ -1,0 +1,9 @@
+.info button:hover {
+    box-shadow: 0px 8px 15px hsl(1, 70%, 40%);
+}
+
+.achivements {
+    height: 100px;
+    box-shadow: 0px 5px 15px rgb(215, 215, 215);
+    border-radius: 10px;
+}

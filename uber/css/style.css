@@ -1,0 +1,54 @@
+.infobar a,
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.infobar a:hover {
+    color: brown;
+}
+
+.navbar,
+.navbar .nav-item a {
+    background-color: #212429;
+    color: #8e9294;
+}
+
+.navbar .nav-item a:hover {
+    color: white;
+}
+
+.bar_btn {
+    background-color: #ffbf07;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.slider {
+    height: 400px;
+}
+
+.slider img {
+    height: 400px;
+}
+
+.information {
+    height: 100px;
+}
+
+.inner_content .row {
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.inner_content i {
+    font-size: 50px;
+}
+
+.content .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
